@@ -1,6 +1,6 @@
 # Spoof-IOS-devices
-Apple Manufacturer 004C
 
+Apple Manufacturer 004C
 
 AppleTVSetup			04042a0000000f05c101604c95000010000000
 AppleTVPair				04042a0000000f05c106604c95000010000000
